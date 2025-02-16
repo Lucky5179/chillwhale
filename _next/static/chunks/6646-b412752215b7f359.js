@@ -338,7 +338,7 @@
         n = s.n(a);
       let i = () =>
         [
-          { type: "twitter", url: "https://x.com/" },
+          { type: "twitter", url: "https://x.com/chillwhales_eth" },
         ].map((e, t) =>
           (0, l.jsx)(
             n(),

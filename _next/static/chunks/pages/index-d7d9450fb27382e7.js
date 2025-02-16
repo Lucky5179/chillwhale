@@ -1853,7 +1853,7 @@
                                   height: 30,
                                 }),
                                 (0, r.jsx)(s.Z, {
-                                  url: "https://t.me/",
+                                  url: "https://t.me/chillwhales_eth",
                                   text: "Join Community",
                                   type: "solid-dark-blue",
                                 }),
