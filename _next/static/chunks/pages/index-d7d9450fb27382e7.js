@@ -1356,7 +1356,7 @@
                           className: "mt-[20px] flex min-w-[232px] gap-4 pb-7",
                           children: [
                             (0, r.jsx)(s.Z, {
-                              url: "https://www.dextools.io/",
+                              url: "https://www.dextools.io/app/en/ether/pair-explorer/0x338099ab9bb3df7f6d4889306473ed0c09cddfa1?t=1739933306586",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               text: "chillwhale on Dextools",
