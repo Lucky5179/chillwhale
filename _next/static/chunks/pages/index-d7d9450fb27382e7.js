@@ -733,7 +733,7 @@
                             className: "flex min-w-[232px] gap-4",
                             children: [
                               (0, r.jsx)(s.Z, {
-                                url: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                                url: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x2ecEeF129D465f096562d31601979e0935c5a9a2",
                                 type: "solid-dark-blue",
                                 text: "BUY $CHILL",
                               }),
@@ -787,7 +787,7 @@
                       (0, r.jsx)("div", {
                         className: "mt-5 w-[285px] self-start",
                         children: (0, r.jsx)(s.Z, {
-                          url: "https://dexscreener.com/ethereum/0xcomingsoon",
+                          url: "https://dexscreener.com/ethereum/0x2ecEeF129D465f096562d31601979e0935c5a9a2",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           text: "Chillwhales on Dexscreener",
@@ -973,7 +973,7 @@
                       className: "flex gap-4 md:p-4",
                       children: [
                         (0, r.jsx)(s.Z, {
-                          url: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                          url: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x2ecEeF129D465f096562d31601979e0935c5a9a2",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           text: "CHILL on UniSwap",
@@ -1331,7 +1331,7 @@
                                       "CA: ",
                                       (0, r.jsx)("code", {
                                         children:
-                                          "0xcomingsoon",
+                                          "0x2ecEeF129D465f096562d31601979e0935c5a9a2",
                                       }),
                                     ],
                                   }),
@@ -1364,7 +1364,7 @@
                               type: "solid-dark-blue",
                             }),
                             (0, r.jsx)(s.Z, {
-                              url: "https://dexscreener.com/ethereum/0xcomingsoon",
+                              url: "https://dexscreener.com/ethereum/0x2ecEeF129D465f096562d31601979e0935c5a9a2",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               text: "chillwhale on dexscreener",
@@ -1526,7 +1526,7 @@
                             className: "flex min-w-[232px] gap-4",
                             children: [
                               (0, r.jsx)(s.Z, {
-                                url: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+                                url: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0x2ecEeF129D465f096562d31601979e0935c5a9a2",
                                 type: "solid-dark-blue",
                                 text: "BUY $CHILLL",
                               }),
